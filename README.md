@@ -36,5 +36,9 @@ Confirme que todas as dependências (.NET e Oracle Managed Data Access) estão i
 4️⃣ Executar
 Basta rodar o projeto no Visual Studio! Acesse o menu principal e utilize as funcionalidades do sistema conforme necessário.
 
+4️⃣ Logar como admin
+usuario: admin
+senha:senha123
+
 📌 Funcionalidades
 ✔ Registro de falhas → Identifica e registra falhas de energia no banco de dados ✔ Geração de alertas → Monitora geradores e equipamentos hospitalares ✔ Logs de eventos → Registra ações críticas e auditoria do sistema ✔ Relatórios de status → Gera históricos sobre equipamentos e geradores ✔ Comunicação interna → Permite troca de mensagens entre setores
